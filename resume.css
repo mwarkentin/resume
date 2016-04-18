@@ -238,6 +238,21 @@ dl em {
     padding: 40px 50px;
     width: 912px;
   }
+  .experience .date {
+    float: right;
+  }
+  .experience ul {
+    list-style: circle;
+    margin-top: -8px;
+    margin-bottom: -12px;
+  }
+  .experience ul li {
+    width: 100%;
+    float: none;
+    margin-left: 18px;
+    margin-bottom: -12px;
+    line-height: 20px;
+  }
   blockquote {
     top: 40px;
     right: 50px;
@@ -258,6 +273,7 @@ dl em {
   }
   h3 {
     float: left;
+    clear: both;
     width: 16%;
   }
   h3 ~ p {
@@ -344,6 +360,21 @@ dl em {
   p strong, p em {
     font-size: 17px;
     line-height: 24px;
+  }
+  .experience .date {
+    float: right;
+  }
+  .experience ul {
+    list-style: circle;
+    margin-top: -8px;
+    margin-bottom: -12px;
+  }
+  .experience ul li {
+    width: 100%;
+    float: none;
+    margin-left: 18px;
+    margin-bottom: -12px;
+    line-height: 20px;
   }
 }
 
